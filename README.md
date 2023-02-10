@@ -1,2 +1,2 @@
--A programming enthusiast with research mindset;
+-A programming enthusiast with research mindset; <br>
 -Major field of interests are Computational Engineering, Mechanics of Materials & Fluid Dynamics.
